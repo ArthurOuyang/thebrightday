@@ -23,7 +23,7 @@
 }
 
 .two{
-    background-image: url("https://github.com/ArthurOuyang/thebrightday/blob/main/img/homebread.jpg");
+    background-image: url(img/homebread.jpg);
     grid-row: 2/3;
     background-size: cover;
     background-repeat: no-repeat;
